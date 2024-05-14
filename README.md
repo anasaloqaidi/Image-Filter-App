@@ -2,7 +2,10 @@
 **MATLAB Image Filter App**
 
 This MATLAB application lets you apply various filters and adjustments to your images. It's created using the MATLAB App Designer for a user-friendly graphical interface.
+
 ![Databrick project with Snowflake](ImageFilter.PNG)
+
+
 **Features:**
 
 -   Load images in common formats (JPG, PNG, BMP, GIF, TIFF)
